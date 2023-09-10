@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hasmukh_signup_project/static/css/main.a4838356.css",
+    "main.js": "/Hasmukh_signup_project/static/js/main.ca04df07.js",
+    "index.html": "/Hasmukh_signup_project/index.html",
+    "main.a4838356.css.map": "/Hasmukh_signup_project/static/css/main.a4838356.css.map",
+    "main.ca04df07.js.map": "/Hasmukh_signup_project/static/js/main.ca04df07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4838356.css",
+    "static/js/main.ca04df07.js"
+  ]
+}
